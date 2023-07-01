@@ -1,4 +1,4 @@
-# 👋👀 Hello, i am [Daniel Ike](https://www.linkedin.com/in/daniel-ikechukwu-122000217/)
+# 👋 Hello, I am [Daniel Ikechukwu](https://www.linkedin.com/in/daniel-ikechukwu-122000217/)
 
 I am a software developer. I'm passionate about software development, solving problem with it and i'm looking forward to connecting with like mind to solve problems with software and technology.
 
