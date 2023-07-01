@@ -15,8 +15,12 @@ Feel free to send me a message if you would like to know more about me. I am alw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="35" height="35"/>
 </p>
 
-## 📱📱 Let's connect
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="LinkedIn" width="20" height="auto"/> [LinkedIn](https://www.linkedin.com/in/daniel-ikechukwu-122000217/)
+<br/>
+<br/>
+<br/>
+
+## 📱 Let's connect
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="auto"/> [LinkedIn](https://www.linkedin.com/in/daniel-ikechukwu-122000217/)
 
 <br/>
 <br/>
