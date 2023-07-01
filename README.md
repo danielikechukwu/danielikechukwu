@@ -16,23 +16,7 @@ Feel free to send me a message if you would like to know more about me. I am alw
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## 📱 Let's connect
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="auto"/>](https://www.linkedin.com/in/daniel-ikechukwu-122000217/)
-
-<br/>
-<br/>
-<br/>
-
-<p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Daniel%20Ikechukwu&card_width=494)](https://git.io/streak-stats)
-  //![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel%20Ikechukwu&theme=gruvbox&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)] 
-  (https://github.com/anuraghazra/github-readme-stats)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel%20Ikechukwu&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 
