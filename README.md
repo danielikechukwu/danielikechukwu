@@ -1,3 +1,5 @@
+# Daniel Ikechukwu
+#### software developer
 - 👋 Hi, I’m Ikechukwu Daniel
 - 👀 I’m interested in Software Engineering
 - 🌱 I work with C#,Typescript,Javascript and .NET 
