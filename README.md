@@ -16,11 +16,11 @@ Working with CI/CD pipelines, Firebase, cloud hosting, and production deployment
 
 🧠 Technologies & Tools
 
-Frontend: Angular • RxJS • NgRx • JavaScript • TypeScript • HTML • CSS • Tailwind • SASS
-Backend: C# • .NET • ASP.NET Core • Entity Framework • REST APIs
-Database: SQL Server
-Tools/DevOps: Git • GitHub • Docker/Kurbenetes (learning) • Vite • Nx • Postman
-Other: Clean Architecture • SOLID • Software Design Patterns
+Frontend: Angular • RxJS • NgRx • Signals • JavaScript • TypeScript • HTML • CSS • Tailwind • SASS <br>
+Backend: C# • .NET • ASP.NET Core • Entity Framework • REST APIs • gRPC <br>
+Database: SQL Server <br>
+Tools/DevOps: Git • GitHub • Docker/Kurbenetes (learning) • Vite • Nx • Postman • Swagger <br>
+Other: Clean Architecture • SOLID • Software Design Patterns <br>
 
 🎯 What I’m Currently Focused On
 
