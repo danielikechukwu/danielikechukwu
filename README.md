@@ -1,37 +1,16 @@
-👋 Hi, I'm Daniel Ikechukwu
-Full-Stack Software Engineer | Angular • JavaScript • TypeScript • C# • .NET • Web APIs
+# Hi, I'm Daniel Ikechukwu
 
-I’m a passionate full-stack engineer focused on building clean, scalable, production-ready applications across frontend and backend. I enjoy transforming complex business requirements into elegant technical solutions — with a strong emphasis on performance, maintainability, and best practices.
+Software Engineer specializing in full-stack web development with **ASP.NET Core** and **Angular**. I design and build scalable, secure RESTful APIs and responsive, user-focused web applications.
 
-🚀 What I Do
+### 🛠 Tech Stack
 
-Frontend Development (Expert)
-Building modern, high-performance UI using Angular, JavaScript, TypeScript, Tailwind CSS, and best architectural patterns.
+* **Languages:** C#, TypeScript, JavaScript
+* **Backend:** ASP.NET Core Web API, Entity Framework Core, RESTful APIs, Clean Architecture
+* **Frontend:** Angular, RxJS, Signals, Modern CSS / Tailwind CSS, Primeng, Hybrid-rendering, 
+* **Databases & Tools:** PostgreSQL, SQL Server, Git, Postman, Docker, Swagger
 
-Backend Development (Intermediate–Advanced)
-Designing secure, scalable services with C#, .NET, ASP.NET Core, Entity Framework, and RESTful APIs.
+### 🔭 What I'm Doing
 
-Cloud & DevOps (Growing Expertise)
-Working with CI/CD pipelines, Firebase, cloud hosting, and production deployment workflows.
-
-🧠 Technologies & Tools
-
-Frontend: Angular • RxJS • NgRx • Signals • JavaScript • TypeScript • HTML • CSS • Tailwind • SASS <br>
-Backend: C# • .NET • ASP.NET Core • Entity Framework • REST APIs • gRPC <br>
-Database: SQL Server <br>
-Tools/DevOps: Git • GitHub • Docker/Kurbenetes (learning) • Vite • Nx • Postman • Swagger <br>
-Other: Clean Architecture • SOLID • Software Design Patterns <br>
-
-🎯 What I’m Currently Focused On
-
-Building highly maintainable Angular and .NET backend systems
-Designing scalable REST APIs with clean architecture
-Improving advanced frontend engineering skills
-Working towards becoming a top 1% software engineer
-
-📚 What I’m Learning Next
-
-Advanced Angular testing (Jasmine, TestBed, Jest, Vitest)
-High-performance .NET API architecture
-Cloud computing (Azure / AWS)
-System design and scalability patterns
+* Building web softwares solutions and distributed API systems
+* Implementing modern frontend architectures and reactive state management
+* Focusing on clean code, domain-driven design, Web api architecture, and maintainable systems
