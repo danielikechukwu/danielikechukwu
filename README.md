@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Ikechukwu
+# Daniel Ikechukwu
 
 Software Engineer specializing in full-stack web development with **ASP.NET Core** and **Angular**. I design and build scalable, secure RESTful APIs and responsive, user-focused web applications.
 
